@@ -8,11 +8,11 @@
 export default {
 
 name: 'BookList',
-        data: function () {
-          return {
-            title: 'All Books'
-          }
-        }
+  data: function () {
+    return {
+      title: 'All Books'
+    }
+  }
 }
 
 </script>
